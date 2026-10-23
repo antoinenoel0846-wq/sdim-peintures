@@ -1,0 +1,5 @@
+# Rien d'autre que la page ne doit partir en ligne.
+*
+!index.html
+!.gitignore
+!README.md
